@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">intermediateBookReview</string>
+    <string name="naverClientId">ljy3Y4IX0EmXwu95Vzt0</string>
+    <string name="naverClientSecret">r0oRavIhnX</string>
+</resources>
